@@ -33,3 +33,10 @@
 ##### Final dataset: 918 observations
 
 #### Every dataset used can be found under the Index of heart disease datasets from UCI Machine Learning Repository on the following link: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/
+
+![Screenshot (68)](https://github.com/rameshkumar359/Heart-disease-prediction-using-bagging-technique/assets/96288285/4416f23d-acb9-4bba-a8c0-385945b6e3a3)
+![Screenshot (69)](https://github.com/rameshkumar359/Heart-disease-prediction-using-bagging-technique/assets/96288285/7dfabc48-b55a-46de-96aa-0f59d60f8ad3)
+
+![Screenshot (70)](https://github.com/rameshkumar359/Heart-disease-prediction-using-bagging-technique/assets/96288285/70fb432d-f999-4889-b9f2-f6b99ee819a6)
+![Screenshot (71)](https://github.com/rameshkumar359/Heart-disease-prediction-using-bagging-technique/assets/96288285/d900d945-b900-4412-bfbb-b221f098e46f)
+![Screenshot (72)](https://github.com/rameshkumar359/Heart-disease-prediction-using-bagging-technique/assets/96288285/b879349f-0937-4ebe-8306-e6c6ca3b3123)
